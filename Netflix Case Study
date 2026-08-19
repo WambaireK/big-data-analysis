@@ -1,1 +1,0 @@
-Memory-optimised Python script (netflix_recommender_stable.py) implementing a content-based recommendation system using the MovieLens 100k dataset, with visualisations showing top rated movies and rating distribution.
